@@ -39,3 +39,5 @@ Grid search cross-validation is performed to fine-tune model hyperparameters and
 
 ## Conclusion
 In conclusion, this project aims to address the challenge of customer churn in the telecommunications industry by leveraging data-driven insights and predictive modeling. By developing accurate churn prediction models, Syriatel can reduce churn risks, maximize customer retention efforts, improve customer satisfaction, and maintain a competitive advantage in the market.
+## Presentation link
+https://www.canva.com/design/DAF_Iknfm1A/QSA8BS-hbN_bADiTJUS0Pw/edit?utm_content=DAF_Iknfm1A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
